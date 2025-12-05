@@ -41,7 +41,7 @@ What the stewardship team will provision:
 
 After provisioning, organizers should:
 
--- Verify collaborator access and update the `README.md` with event-specific details
--- Customize templates and add labs, slides, and communications materials
--- Finalize the day-of runbook using `GlobalSecurityBootcampTemplate/templates/operations/runbook-day-of.md`
--- Coordinate with the stewardship team for any Pages publishing steps if the team is managing deployment
+- Verify collaborator access and update the `README.md` with event-specific details
+- Customize templates and add labs, slides, and communications materials
+- Finalize the day-of runbook using `GlobalSecurityBootcampTemplate/templates/operations/runbook-day-of.md`
+- Coordinate with the stewardship team for any Pages publishing steps if the team is managing deployment
