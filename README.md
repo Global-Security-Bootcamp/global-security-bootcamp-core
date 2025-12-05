@@ -2,8 +2,6 @@
 
 This repository hosts the public MkDocs website for the Global Security Bootcamp program. The site provides documentation, guides, and governance information for organizers and contributors.
 
-Template materials and example event assets have been copied into `GlobalSecurityBootcampTemplate/` for convenience; the template contents are intended to be moved to a separate, private repository (the event template repo) for provisioning event repositories.
-
 ## How it operates
 
 The Stewardship team provisions event repositories on request. Organizers should open an "Event Repository Request" (via the issue template or steward contact) with the details described below; the stewardship team will create and configure the repository, add collaborators, and seed it with the selected templates. This reduces friction and helps non-native English speakers by standardizing the initial configuration.
@@ -39,8 +37,6 @@ What the stewardship team will provision:
 - Initialize with `README.md`, recommended folder structure, and selected templates
 - Add collaborators with appropriate permissions
 - Configure repository settings (default branch, branch protections where needed)
-- Add issue and PR templates, and copy standard workflows (markdown lint, link check) where appropriate
-- Optionally enable GitHub Pages and set up a build/deploy workflow
 - Provide a short onboarding message with next steps and links to core docs
 
 After provisioning, organizers should:
