@@ -1,0 +1,24 @@
+name: Standards Compliance
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+
+jobs:
+  check_docs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check required docs exist
+        run: |
+          required=("README.md" "CONTRIBUTING.md" "SECURITY.md" "docs/organizer-onboarding.md")
+          missing=()
+          for f in "${required[@]}"; do
+            if [ ! -e "$f" ]; then
+              missing+=("$f")
+            fi
+          done
+          if [ ${#missing[@]} -ne 0 ]; then
+            echo "Missing required files: ${missing[*]}"; exit 1
+          fi
