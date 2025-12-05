@@ -1,0 +1,72 @@
+site_name: Global Security Bootcamp
+site_description: Framework for running community-driven, cloud-security events
+site_author: Global Security Bootcamp Stewardship Team
+site_url: https://your-org.github.io/global-security-bootcamp-core
+
+nav:
+  - Home: index.md
+  - Getting Started:
+      - Overview: getting-started/overview.md
+      - Quickstart: getting-started/quickstart.md
+      - Create Your Event Repo: getting-started/create-event-repo.md
+  - Planning Your Event:
+      - Program Themes: planning/program-themes.md
+      - Event Standards: planning/event-standards.md
+      - Roles and Responsibilities: planning/roles-responsibilities.md
+  - Using Templates:
+      - Templates Overview: templates/overview.md
+      - Agendas: templates/agendas.md
+      - Communications: templates/communications.md
+      - Operations & Runbooks: templates/operations.md
+      - Slides & Speaker Notes: templates/slides.md
+  - Guides:
+      - Organizer Onboarding: guides/organizer-onboarding.md
+      - Branding: guides/branding.md
+      - Sponsorship: guides/sponsorship.md
+      - Code of Conduct: guides/code-of-conduct.md
+      - Localization: guides/localization.md
+  - Reference:
+      - FAQ: reference/faq.md
+      - Governance: reference/governance.md
+      - Contributing: reference/contributing.md
+      - Security: reference/security.md
+
+theme:
+  name: material
+  logo: assets/logo.png
+  favicon: assets/favicon.ico
+  palette:
+    - scheme: light
+      primary: blue
+      accent: indigo
+    - scheme: dark
+      primary: blue
+      accent: indigo
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+
+markdown_extensions:
+  - pymdownx.highlight:
+      use_pygments: true
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/your-org/global-security-bootcamp-core
+
+copyright: |
+  Copyright &copy; 2025 Global Security Bootcamp. Licensed under MIT.
