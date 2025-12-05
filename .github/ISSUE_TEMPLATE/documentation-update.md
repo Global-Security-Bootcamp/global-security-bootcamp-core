@@ -12,8 +12,9 @@ assignees: ''
 
 ## Affected areas
 - `docs/`
-- `templates/`
-- `automation/`
+ - `docs/`
+ - `GlobalSecurityBootcampTemplate/templates/`
+ - `automation/`
 
 ## Checklist
 - [ ] Content accuracy verified

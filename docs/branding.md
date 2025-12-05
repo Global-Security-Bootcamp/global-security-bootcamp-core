@@ -12,4 +12,4 @@ Co-branding
 - Keep sponsor presence unobtrusive and clearly separated from learning materials.
 
 Templates
-- Use `templates/slides/starter-deck-notes.md` and the starter deck guidance when creating slide decks.
+-- Use `GlobalSecurityBootcampTemplate/templates/slides/starter-deck-notes.md` and the starter deck guidance when creating slide decks.

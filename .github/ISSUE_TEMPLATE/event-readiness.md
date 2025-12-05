@@ -16,7 +16,8 @@ assignees: ''
 - [ ] Slides and lab materials present
 - [ ] Registration link available and privacy reviewed
 - [ ] Communications plan in `templates/communications`
-- [ ] Operational runbook prepared (`templates/operations/runbook-day-of.md`)
+ - [ ] Communications plan in `GlobalSecurityBootcampTemplate/templates/communications`
+ - [ ] Operational runbook prepared (`GlobalSecurityBootcampTemplate/templates/operations/runbook-day-of.md`)
 - [ ] Accessibility and inclusion review completed
 
 ## Notes / blockers

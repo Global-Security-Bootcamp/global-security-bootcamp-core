@@ -101,12 +101,8 @@ An **Event Organizer** plans and executes a local Global Security Bootcamp event
 
 ## Key Resources
 
-- **[Templates & Resources](../templates/overview.md)** — Copy and customize templates for agendas, communications, and operations.
-- **[Event Standards](../planning/event-standards.md)** — Quality baselines for program, experience, and operations.
-- **[Program Themes](../planning/program-themes.md)** — Suggested session topics and session formats.
-- **[Organizer Guides](../guides/)** — Detailed onboarding and role guidance.
 
-## Communication Tips
+ Use templates from `GlobalSecurityBootcampTemplate/templates/` and update `docs/` when adding new program themes.
 
 1. **Communicate early and often** — Speakers, volunteers, sponsors, and attendees benefit from early and clear communication.
 2. **Set expectations clearly** — Be explicit about roles, timing, and deliverables.

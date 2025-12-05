@@ -4,9 +4,9 @@ The Global Security Bootcamp framework is designed to support multiple languages
 
 ## Approach
 
-**Source language** (English) is authoritative and located in `docs/` and `templates/`.
+**Source language** (English) is authoritative and located in `docs/` and `GlobalSecurityBootcampTemplate/templates/`.
 
-**Localized content** (other languages) is stored in `localization/` and references back to core docs when appropriate.
+**Localized content** (other languages) is stored in `GlobalSecurityBootcampTemplate/localization/` and references back to core docs when appropriate.
 
 ## Localization Structure
 

@@ -11,7 +11,7 @@ The Global Security Bootcamp Core provides ready-to-use templates for all aspect
 
 ## How to Use Templates
 
-1. **Copy** the template from `templates/` to your event repository.
+1. **Copy** the template from `GlobalSecurityBootcampTemplate/templates/` to your event repository.
 2. **Customize** for your city, dates, speakers, and focus areas.
 3. **Review** against [Event Standards](../planning/event-standards.md) before finalizing.
 4. **Share** with your team and get feedback.
