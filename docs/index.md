@@ -1,50 +1,51 @@
 # Global Security Bootcamp
 
-Welcome to the **Global Security Bootcamp** framework — a community-driven scaffold for organizing and running cloud-security-focused events worldwide.
-
-## What is this?
-
-The Global Security Bootcamp Core is a private repository containing:
-
-- **Reusable templates** for agendas, communications, operations, and slides
-- **Documentation** on program themes, event standards, and best practices
-- **Guidance** for organizers onboarding, branding, sponsorship, and governance
-- **A structured approach** to running inclusive, practical, hands-on security events
+Welcome to the **Global Security Bootcamp** — a community-driven framework for organizing hands-on cloud security learning events worldwide.
 
 ## For Event Organizers
 
-If you've been invited to organize a Global Security Bootcamp event in your city:
+If you've been invited to run a bootcamp event in your city, explore the sections below:
 
-1. **Read** [Quickstart](getting-started/quickstart.md) for a step-by-step guide to set up your event repo.
-2. **Review** [Program Themes](planning/program-themes.md) to understand the focus areas.
-3. **Explore** [Using Templates](templates/overview.md) to customize agendas, communications, and operations.
-4. **Check** [Event Standards](planning/event-standards.md) to ensure your event meets quality baselines.
+### [Getting Started](getting-started/)
+Quickstart guides and setup instructions for new organizers
+- Create your first event repository in 10 steps
+- 13-step launch workflow
+
+### [Planning Your Event](planning/)
+Program themes, event standards, and team structure
+- Choose from 8 core cloud security domains
+- Define roles and readiness checkpoints
+
+### [Templates & Resources](templates/)
+Ready-to-use templates for agendas, communications, and operations
+- Customize for your city and dates
+- Pre-built speaker notes and checklists
+
+### [Organizer Guides](guides/)
+Detailed guides for branding, sponsorship, community standards, and localization
+- Build sponsor relationships
+- Create inclusive events
+- Go global with translations
+
+### [Reference Materials](reference/)
+FAQ, governance, contribution guidelines, and security policies
+- Find answers to common questions
+- Understand how the project works
+- Learn how to contribute
 
 ## Core Values
 
-- **Inclusive**: Design events that welcome all backgrounds.
-- **Practical**: Prioritize hands-on, scenario-driven learning.
-- **Community-first**: Center participants and local organizers.
-- **Stewardship**: Maintain clear ownership and reusable materials.
-
-## Key Folders
-
-- **`docs/`** — Comprehensive guidance on standards, themes, branding, sponsorship, and governance.
-- **`templates/`** — Ready-to-use templates for agendas, slides, communications, and day-of operations.
-- **`events/`** — Sample event materials and structure guidance.
-- **`localization/`** — Localization framework and strings for multiple languages.
+- **Hands-On Learning** — 40%+ of event time dedicated to labs and practical exercises
+- **Community-First** — Built by organizers, for organizers; prioritize local context and needs
+- **Inclusive & Accessible** — Welcoming to all skill levels; strong focus on accessibility and diversity
+- **Transparent & Open** — Share templates, standards, and lessons; contribute back to the community
+- **Sustainable** — Designed for volunteers; no vendor lock-in; reusable across organizations
 
 ## Getting Help
 
-- **Organizer questions?** See [Organizer Onboarding](guides/organizer-onboarding.md).
-- **How do I plan my agenda?** See [Agendas](templates/agendas.md).
-- **What topics should I cover?** See [Program Themes](planning/program-themes.md).
-- **How do I set up sponsorship?** See [Sponsorship](guides/sponsorship.md).
-- **Something not covered?** Check [FAQ](reference/faq.md).
-
-## Contributing
-
-Found an issue or want to improve the framework? See [Contributing](reference/contributing.md) and [Governance](reference/governance.md) for the process.
+- **[Frequently Asked Questions](reference/faq.md)** — 60+ answers to common questions
+- **[Organizer Onboarding Guide](guides/organizer-onboarding.md)** — Role definitions and readiness checkpoints
+- **[Project Governance](reference/governance.md)** — How decisions are made and the project is maintained
 
 ---
 
