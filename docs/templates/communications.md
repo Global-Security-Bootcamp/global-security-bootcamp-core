@@ -139,10 +139,9 @@ Global Security Bootcamp is a community-driven initiative to provide practical, 
 [Email]
 [Phone (optional)]
 
----
 
-*[Organization] is hosting this event in partnership with [partners/sponsors].*
-```
+
+See [Templates Overview](overview.md) for step-by-step guidance on customizing communications.
 
 ## Customization Tips
 
@@ -154,4 +153,3 @@ Global Security Bootcamp is a community-driven initiative to provide practical, 
 
 ---
 
-See [Quickstart](../getting-started/quickstart.md) for step-by-step guidance on customizing communications.

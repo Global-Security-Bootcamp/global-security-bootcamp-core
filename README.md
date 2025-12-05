@@ -4,7 +4,7 @@ Purpose: A private scaffold for organizers running community-driven, cloud-secur
 
 ## How it operates
 
-Use the `docs/` and `templates/` folders to prepare event materials. Event-specific content should live in separate event repositories and link back to this core scaffold. Follow the governance and contribution guidance for changes.
+The Stewardship team provisions event repositories on request. Organizers should open an "Event Repository Request" (via the issue template or steward contact) with the details described below; the stewardship team will create and configure the repository, add collaborators, and seed it with the selected templates. This reduces friction and helps non-native English speakers by standardizing the initial configuration.
 
 ## Values
 
@@ -15,72 +15,38 @@ Use the `docs/` and `templates/` folders to prepare event materials. Event-speci
 
 ---
 
-## Quickstart: Create Your Own Global Security Bootcamp Event
+### Request a Provisioned Event Repository
 
-### Prerequisites
+To run an event, open an "Event Repository Request" issue (use the provided issue template) and include the details listed below. The stewardship team will provision and configure the repository for you.
 
-- GitHub account with access to this repository (`global-security-bootcamp-core`).
-- Basic familiarity with Markdown and event planning.
-- (Optional) Git installed locally for easier file management.
+Required information to include in your request:
 
-### Step 1: Create a new repository for your event
+- Proposed repository name (recommended: `yourcity-bootcamp-YYYY`)
+- Visibility: `public` or `private`
+- Primary organizer GitHub username and contact email
+- Event dates and timezone
+- Venue or virtual platform details
+- List of initial collaborators (GitHub usernames) to add
+- Preferred templates to pre-populate (agenda type, communications, operations)
+- Whether you want GitHub Pages enabled and which branch to use for pages (default: `main`)
+- Accessibility or localization needs
 
-1. Go to GitHub and create a new repository named `[YourCity]-bootcamp-2025` (e.g., `perth-bootcamp-2025`).
-2. Optionally initialize it with a `README.md`.
-3. Clone or fork this private repository (`global-security-bootcamp-core`) to your local machine.
+What the stewardship team will provision:
 
-### Step 2: Copy core templates to your event repo
+- Create the repository under the agreed owner (e.g., `global-security-bootcamp` org)
+- Initialize with `README.md`, recommended folder structure, and selected templates
+- Add collaborators with appropriate permissions
+- Configure repository settings (default branch, branch protections where needed)
+- Add issue and PR templates, and copy standard workflows (markdown lint, link check) where appropriate
+- Optionally enable GitHub Pages and set up a build/deploy workflow
+- Provide a short onboarding message with next steps and links to core docs
 
-From the `global-security-bootcamp-core` repository, copy these template files into your new event repo:
+After provisioning, organizers should:
 
-- `templates/agenda/` — copy `agenda-full-day.md` or `agenda-half-day.md` and customize with your sessions.
-- `templates/communications/` — copy `social-kit.md` and `press-release.md`; update with your event details.
-- `templates/operations/` — copy `runbook-day-of.md` and `incident-brief.md` for operational planning.
-- `templates/slides/starter-deck-notes.md` — use as speaker guidance; add your slides to `slides/` folder in your event repo.
-- `docs/code-of-conduct.md` — review and customize or link directly from the core repo.
-
-### Step 3: Create your event structure
-
-In your event repository, create the following folders and files:
-
-```
-[your-event-repo]/
-├── README.md                    # Event overview, dates, registration link
-├── AGENDA.md                    # Your customized agenda (from templates)
-├── slides/                      # Your slide decks
-├── labs/                        # Lab instructions and setup/cleanup scripts
-├── communications/
-│   ├── social-kit.md           # (copied & customized)
-│   └── press-release.md        # (copied & customized)
-├── operations/
-│   ├── runbook-day-of.md       # (copied & customized)
-│   └── incident-brief.md
-└── docs/
-    └── local-notes.md          # Any local organizer or sponsor notes
-```
-
-### Step 4: Customize your event README
-
-Create a clear `README.md` in your event repo that includes:
-
-- **Event title**: e.g., "Global Security Bootcamp — Perth 2025"
-- **Date(s) and location**
-- **Organizers and contact info**
-- **Registration link** (with privacy statement)
-- **Event overview** (1-2 sentences on focus areas and learning outcomes)
-- **Agenda link** (reference your `AGENDA.md`)
-- **Code of Conduct** (link to `docs/code-of-conduct.md` in `global-security-bootcamp-core`, or create your own)
-
-### Step 5: Prepare agenda and sessions
-
-1. Copy `templates/agenda/agenda-full-day.md` or `agenda-half-day.md` to your event repo as `AGENDA.md`.
-2. Update timing, session titles, and speaker names.
-3. For each session, include:
-   - **Session title**
-   - **Speaker(s)**
-   - **Duration**
-   - **Prerequisites** (e.g., "basic cloud knowledge", "laptop with SSH access")
-   - **Expected outcomes** (what attendees will learn/be able to do)
+- Verify collaborator access and update the `README.md` with event-specific details
+- Customize templates and add labs, slides, and communications materials
+- Finalize the day-of runbook using `templates/operations/runbook-day-of.md`
+- Coordinate with the stewardship team for any Pages publishing steps if the team is managing deployment
 
 ### Step 6: Prepare labs and materials
 

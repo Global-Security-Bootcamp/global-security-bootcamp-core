@@ -5,10 +5,6 @@ site_url: https://your-org.github.io/global-security-bootcamp-core
 
 nav:
   - Home: index.md
-  - Getting Started:
-      - Overview: getting-started/overview.md
-      - Quickstart: getting-started/quickstart.md
-      - Create Your Event Repo: getting-started/create-event-repo.md
   - Planning Your Event:
       - Program Themes: planning/program-themes.md
       - Event Standards: planning/event-standards.md

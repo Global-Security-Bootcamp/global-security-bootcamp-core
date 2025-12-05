@@ -125,4 +125,4 @@ For each session, include:
 
 ---
 
-See [Quickstart](../getting-started/quickstart.md) for step-by-step guidance on customizing agendas.
+See [Templates Overview](overview.md) for step-by-step guidance on customizing agendas.

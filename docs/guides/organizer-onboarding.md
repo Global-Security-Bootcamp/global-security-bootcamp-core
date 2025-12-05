@@ -7,6 +7,7 @@ This guide helps new organizers understand their role, responsibilities, and rea
 An **Event Organizer** plans and executes a local Global Security Bootcamp event. You are responsible for:
 
 - Creating and managing an event repository.
+ - Requesting and onboarding a provisioned event repository (the stewardship team can create and configure this for you).
 - Recruiting speakers, volunteers, and sponsors.
 - Customizing core templates for your local context.
 - Preparing labs and hands-on materials.
@@ -67,7 +68,7 @@ An **Event Organizer** plans and executes a local Global Security Bootcamp event
 - [ ] Define event objectives and target audience.
 - [ ] Confirm date, location (venue reserved).
 - [ ] Assemble organizer core team.
-- [ ] Create event repository with core templates.
+- [ ] Request a provisioned event repository from the stewardship team (see request details below).
 - [ ] Identify and reach out to potential speakers.
 
 ### Preparation Phase (2-3 months before)
@@ -100,10 +101,10 @@ An **Event Organizer** plans and executes a local Global Security Bootcamp event
 
 ## Key Resources
 
-- **[Quickstart](../getting-started/quickstart.md)** — Step-by-step guide to set up your event.
+- **[Templates & Resources](../templates/overview.md)** — Copy and customize templates for agendas, communications, and operations.
 - **[Event Standards](../planning/event-standards.md)** — Quality baselines for program, experience, and operations.
 - **[Program Themes](../planning/program-themes.md)** — Suggested session topics and session formats.
-- **[Using Templates](../templates/overview.md)** — Guides for agendas, communications, operations, and slides.
+- **[Organizer Guides](../guides/)** — Detailed onboarding and role guidance.
 
 ## Communication Tips
 

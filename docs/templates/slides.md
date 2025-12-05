@@ -139,6 +139,6 @@ If your session includes a hands-on demo or lab:
 5. **Provide resources** — Share lab files, scripts, and documentation with attendees.
 6. **Include cleanup** — Explain how to tear down the lab safely and cleanly.
 
----
 
-See [Quickstart](../getting-started/quickstart.md) for guidance on preparing your event's slides and presentations.
+
+See [Templates Overview](overview.md) for guidance on preparing your event's slides and presentations.

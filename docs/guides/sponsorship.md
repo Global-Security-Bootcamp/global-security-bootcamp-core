@@ -152,4 +152,4 @@ You may decline a sponsorship if:
 
 ---
 
-See [Branding](branding.md) for logo and co-branding guidelines and [Quickstart](../getting-started/quickstart.md) for step-by-step event setup.
+See [Branding](branding.md) for logo and co-branding guidelines and [Templates & Resources](../templates/overview.md) for step-by-step setup guidance and sample materials.

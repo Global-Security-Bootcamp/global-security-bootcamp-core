@@ -6,10 +6,8 @@ Welcome to the **Global Security Bootcamp** — a community-driven framework for
 
 If you've been invited to run a bootcamp event in your city, explore the sections below:
 
-### [Getting Started](getting-started/)
-Quickstart guides and setup instructions for new organizers
-- Create your first event repository in 10 steps
-- 13-step launch workflow
+### Start Here
+If you're new to running a Global Security Bootcamp, start with planning and templates below. The Getting Started content was consolidated into the relevant sections.
 
 ### [Planning Your Event](planning/)
 Program themes, event standards, and team structure
@@ -47,6 +45,8 @@ FAQ, governance, contribution guidelines, and security policies
 - **[Organizer Onboarding Guide](guides/organizer-onboarding.md)** — Role definitions and readiness checkpoints
 - **[Project Governance](reference/governance.md)** — How decisions are made and the project is maintained
 
+- **Open an Event Repository Request** — Use the issue template to request a provisioned repository: https://github.com/global-security-bootcamp/global-security-bootcamp-core/issues/new?template=event-repo-request.md
+
 ---
 
-**Ready to get started?** Jump to [Quickstart](getting-started/quickstart.md).
+**Ready to get started?** Jump to the [Templates & Resources](templates/) page to copy and customize materials for your event.
