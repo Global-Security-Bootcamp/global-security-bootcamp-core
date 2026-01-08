@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: Check required docs exist
         run: |
-          required=("README.md" "CONTRIBUTING.md" "SECURITY.md" "docs/organizer-onboarding.md")
+          required=("README.md" "CONTRIBUTING.md" "SECURITY.md" "docs/guides/event-organizer-onboarding.md" "docs/guides/start-an-event.md" "docs/organizer-101.md")
           missing=()
           for f in "${required[@]}"; do
             if [ ! -e "$f" ]; then

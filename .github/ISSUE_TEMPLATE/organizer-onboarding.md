@@ -11,7 +11,7 @@ assignees: ''
 - Org / Affiliation:
 
 ## Readiness checklist
-- [ ] Read `docs/organizer-onboarding.md`
+- [ ] Read `docs/guides/event-organizer-onboarding.md`
 - [ ] Has access to event repo and CI
 - [ ] Understands localization and contributor process
 - [ ] Intro call scheduled with stewardship team

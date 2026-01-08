@@ -77,4 +77,4 @@ Before your event, confirm you meet these checkpoints:
 
 ---
 
-See [Organizer Onboarding](../guides/organizer-onboarding.md) for detailed guidance and [Event Standards](event-standards.md) for quality baselines.
+See [Event Organizer Onboarding](../guides/event-organizer-onboarding.md) for detailed guidance and [Event Standards](event-standards.md) for quality baselines.

@@ -4,7 +4,7 @@ Detailed guides for organizing, branding, sponsoring, and maintaining your event
 
 ## Quick Navigation
 
-- **[Organizer Onboarding](organizer-onboarding.md)** — Role definitions and readiness checkpoints
+- **[Event Organizer Onboarding](event-organizer-onboarding.md)** — Role definitions and readiness checkpoints
 - **[Branding & Identity](branding.md)** — Naming, logos, and co-branding guidelines
 - **[Sponsorship](sponsorship.md)** — Sponsorship tiers, recruitment, and agreements
 - **[Code of Conduct](code-of-conduct.md)** — Expected behavior and reporting procedures
@@ -49,4 +49,4 @@ Reach international audiences:
 
 ---
 
-**Next Steps**: Start with [Organizer Onboarding](organizer-onboarding.md) or [Branding & Identity](branding.md)
+**Next Steps**: Start with [Event Organizer Onboarding](event-organizer-onboarding.md) or [Branding & Identity](branding.md)

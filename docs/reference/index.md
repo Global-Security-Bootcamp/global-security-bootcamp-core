@@ -56,4 +56,4 @@ Keeping the project and community safe:
 
 ---
 
-**Need Help?** Check the FAQ or [Contact the Stewardship Team](../guides/organizer-onboarding.md)
+**Need Help?** Check the [FAQ](faq.md) or review the [Event Organizer Onboarding](../guides/event-organizer-onboarding.md) guide

@@ -5,6 +5,10 @@ site_url: https://your-org.github.io/global-security-bootcamp-core
 
 nav:
   - Home: index.md
+  - Getting Started:
+      - Start an Event: guides/start-an-event.md
+      - Event Organizer Onboarding: guides/event-organizer-onboarding.md
+      - Event Organization 101: organizer-101.md
   - Planning Your Event:
       - Program Themes: planning/program-themes.md
       - Event Standards: planning/event-standards.md
@@ -16,10 +20,9 @@ nav:
       - Operations & Runbooks: templates/operations.md
       - Slides & Speaker Notes: templates/slides.md
   - Guides:
-      - Organizer Onboarding: guides/organizer-onboarding.md
-      - Branding: guides/branding.md
-      - Sponsorship: guides/sponsorship.md
-      - Code of Conduct: guides/code-of-conduct.md
+      - Branding Assets & Design: branding.md
+      - Sponsorship: sponsorship.md
+      - Code of Conduct: code-of-conduct.md
       - Localization: guides/localization.md
   - Reference:
       - FAQ: reference/faq.md

@@ -197,4 +197,4 @@ See [Contributing](../reference/contributing.md) for the full contribution proce
 
 ---
 
-See [Organizer Onboarding](organizer-onboarding.md) for guidance on using localized content in your event repo.
+See [Event Organizer Onboarding](event-organizer-onboarding.md) for guidance on using localized content in your event repo.
